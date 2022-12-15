@@ -9005,7 +9005,7 @@ textarea {
 
 @media(max-width:768px) {
     [data-controller=index]:after {
-        content: url(../../../img/97103f8eb74e58672fc03b12d331965a9136c62d/services1-sm.jpg) url(../../../img/0c76942051eda243c639a7f15e694ab6d221c5e6/services2-sm.jpg) url(../../../img/6146bbac0eae6c849dc1f8ca18feeea0d8af720a/services3-sm.jpg) url(../../../img/c8e7e04373b1216010d44a9ee62e4d87821c5b6f/services4-sm.jpg) url(../../../img/2d97d8af90920acae78ff379b7cf38c94ce04c9c/services5-sm.jpg) url(../../../img/ed0a3832f903aad8fa459fc011dfe74a008a3600/services6-sm.jpg) url(../../../img/f6582f12d8273ec940626625c47c3148709d4591/services7-sm.jpg)
+        content: url(../../../img/services1-sm.jpg) url(../../../img/0c76942051eda243c639a7f15e694ab6d221c5e6/services2-sm.jpg) url(../../../img/6146bbac0eae6c849dc1f8ca18feeea0d8af720a/services3-sm.jpg) url(../../../img/c8e7e04373b1216010d44a9ee62e4d87821c5b6f/services4-sm.jpg) url(../../../img/2d97d8af90920acae78ff379b7cf38c94ce04c9c/services5-sm.jpg) url(../../../img/ed0a3832f903aad8fa459fc011dfe74a008a3600/services6-sm.jpg) url(../../../img/f6582f12d8273ec940626625c47c3148709d4591/services7-sm.jpg)
     }
 }
 
@@ -9202,7 +9202,7 @@ textarea {
     }
 
     [data-controller=index] .projects-cont .sld1-sm {
-        background-image: url(../../../img/services1-sm.jpg);
+        background-image: url(../../../img/services1.jpg);
         background-position: 50%;
         background-repeat: no-repeat;
         background-size: cover
