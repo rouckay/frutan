@@ -2091,7 +2091,7 @@ body .sitle-site {
 }
 
 .turbo-progress-bar {
-    background: #ff5100;
+    background: #fbb03b;
     display: block;
     height: 3px;
     left: 0;
@@ -2121,7 +2121,7 @@ body .sitle-site {
 }
 
 .splide__arrow svg:hover {
-    fill: #ff5100;
+    fill: #fbb03b;
     opacity: 1;
     transition: .15s cubic-bezier(.4, 0, 1, 1)
 }
@@ -2143,7 +2143,7 @@ a:hover {
 }
 
 ::selection {
-    background-color: #ff5100;
+    background-color: #fbb03b;
     color: #fff
 }
 
@@ -2304,7 +2304,7 @@ textarea {
 }
 
 .progress {
-    background: linear-gradient(to right, #ff5100 var(--scroll), transparent 0);
+    background: linear-gradient(to right, #fbb03b var(--scroll), transparent 0);
     background-repeat: no-repeat;
     height: 4px;
     z-index: 1
@@ -2611,7 +2611,7 @@ textarea {
 }
 
 .menu-overlay .menu-options h3.sub:before {
-    background-color: #ff5100;
+    background-color: #fbb03b;
     bottom: 0;
     content: "";
     height: 10px;
@@ -2686,7 +2686,7 @@ textarea {
 }
 
 .menu-overlay .menu-options p:before {
-    background-color: #ff5100;
+    background-color: #fbb03b;
     bottom: 0;
     content: "";
     height: 10px;
@@ -2868,7 +2868,7 @@ textarea {
 }
 
 .menu-cont .relav .logo-cont svg .levector-hover.active {
-    fill: #ff5100;
+    fill: #fbb03b;
     transition: .15s cubic-bezier(.4, 0, 1, 1)
 }
 
@@ -3186,7 +3186,7 @@ textarea {
 }
 
 .menu-cont .relav .menu-options .principal:after {
-    background-color: #ff5100;
+    background-color: #fbb03b;
     bottom: 0;
     content: "";
     height: 8px;
@@ -3209,7 +3209,7 @@ textarea {
 }
 
 .button {
-    background-color: #ff5100;
+    background-color: #fbb03b;
     border: 0 solid transparent;
     color: #fff;
     cursor: pointer;
@@ -3257,7 +3257,7 @@ textarea {
 }
 
 .button:hover {
-    background-color: #ff5100;
+    background-color: #fbb03b;
     color: #444346
 }
 
@@ -3781,7 +3781,7 @@ textarea {
 }
 
 [data-controller=animacion-2d] .txt-cont .head-txt h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
@@ -4211,7 +4211,7 @@ textarea {
 }
 
 [data-controller=blog] .last-entry-cont .txt-cont .category {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -4235,7 +4235,7 @@ textarea {
 }
 
 [data-controller=blog] .last-entry-cont .txt-cont .author span {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 500
 }
 
@@ -4498,12 +4498,12 @@ textarea {
 }
 
 [data-controller=blog] .category-filter .cat-lg p:hover {
-    color: #ff5100;
+    color: #fbb03b;
     transition: .15s cubic-bezier(.4, 0, 1, 1)
 }
 
 [data-controller=blog] .category-filter .cat-lg p.active {
-    color: #ff5100
+    color: #fbb03b
 }
 
 [data-controller=blog] .category-filter .cat-lg p:first-of-type {
@@ -4575,7 +4575,7 @@ textarea {
 }
 
 [data-controller=blog] .post-cont .post-card .txt-cont .category {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -4595,7 +4595,7 @@ textarea {
 }
 
 [data-controller=blog] .post-cont .post-card .txt-cont .author span {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 500
 }
 
@@ -4837,7 +4837,7 @@ textarea {
 }
 
 [data-controller=cine-contenido] .txt-cont .head-txt h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
@@ -4973,12 +4973,12 @@ textarea {
 }
 
 [data-controller=cine-contenido] .doc-cont .columns .button:after {
-    background-color: #ff5100
+    background-color: #fbb03b
 }
 
 [data-controller=cine-contenido] .doc-cont .columns .button:hover {
-    background-color: #ff5100;
-    border-color: #ff5100;
+    background-color: #fbb03b;
+    border-color: #fbb03b;
     color: #fff;
     transition: .25s cubic-bezier(.4, 0, 1, 1)
 }
@@ -5125,7 +5125,7 @@ textarea {
 }
 
 [data-controller=contacto] .form-cont .columns p span {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 700
 }
 
@@ -5389,7 +5389,7 @@ textarea {
 }
 
 [data-controller=corporativos] .txt-cont .head-txt h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
@@ -5872,7 +5872,7 @@ textarea {
 }
 
 [data-controller=digital] .txt-cont .head-txt h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
@@ -6611,7 +6611,7 @@ textarea {
 [data-controller=pablo-naranjo] .director-cont h6,
 [data-controller=pipe-delgado] .director-cont h5,
 [data-controller=pipe-delgado] .director-cont h6 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 1px;
     line-height: 1;
     overflow: hidden;
@@ -9596,7 +9596,7 @@ textarea {
 }
 
 [data-controller=post] .cover-cont .txt-cont .category {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -9616,7 +9616,7 @@ textarea {
 
 [data-controller=post] .cover-cont .txt-cont .author #post-author,
 [data-controller=post] .cover-cont .txt-cont .author #post-duration {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 500
 }
 
@@ -9755,7 +9755,7 @@ textarea {
 [data-controller=post] .post-text-cont .txt-cont h4,
 [data-controller=post] .post-text-cont .txt-cont h5,
 [data-controller=post] .post-text-cont .txt-cont h6 {
-    color: #ff5100;
+    color: #fbb03b;
     margin-bottom: 20px;
     margin-top: 20px
 }
@@ -9767,14 +9767,14 @@ textarea {
 }
 
 [data-controller=post] .post-text-cont .txt-cont p a {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 500;
     text-decoration: underline
 }
 
 [data-controller=post] .post-text-cont .txt-cont blockquote {
     background-color: #212322;
-    border-left: 5px solid #ff5100;
+    border-left: 5px solid #fbb03b;
     margin: 20px 0;
     padding: 20px 40px
 }
@@ -9804,7 +9804,7 @@ textarea {
 }
 
 [data-controller=post] .continue-reading .sep {
-    background-color: #ff5100;
+    background-color: #fbb03b;
     height: 2px;
     margin-bottom: 50px;
     margin-left: auto;
@@ -9867,7 +9867,7 @@ textarea {
 }
 
 [data-controller=post] .continue-reading .columns .txt-cont .category {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -9894,7 +9894,7 @@ textarea {
 }
 
 [data-controller=post] .continue-reading .columns .txt-cont .author span {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 500
 }
 
@@ -10097,7 +10097,7 @@ textarea {
 }
 
 [data-controller=postproduccion] .txt-cont .head-txt h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
@@ -10504,7 +10504,7 @@ textarea {
 }
 
 [data-controller=quienes-somos] .txt-cont h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
@@ -10639,7 +10639,7 @@ textarea {
 
 [data-controller=recurso] .splide__arrow svg,
 [data-controller=recurso] .splide__arrow svg:hover {
-    fill: #ff5100;
+    fill: #fbb03b;
     opacity: 1;
     transition: .15s cubic-bezier(.4, 0, 1, 1)
 }
@@ -10691,7 +10691,7 @@ textarea {
 }
 
 [data-controller=recurso] .content-cont .title-cont p {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 700;
     letter-spacing: 1px;
     text-transform: uppercase
@@ -10750,7 +10750,7 @@ textarea {
 [data-controller=recurso] .content-cont .desc-cont h4,
 [data-controller=recurso] .content-cont .desc-cont h5,
 [data-controller=recurso] .content-cont .desc-cont h6 {
-    color: #ff5100;
+    color: #fbb03b;
     margin-bottom: 20px;
     margin-top: 20px
 }
@@ -10762,14 +10762,14 @@ textarea {
 }
 
 [data-controller=recurso] .content-cont .desc-cont p a {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 500;
     text-decoration: underline
 }
 
 [data-controller=recurso] .content-cont .desc-cont blockquote {
     background-color: #212322;
-    border-left: 5px solid #ff5100;
+    border-left: 5px solid #fbb03b;
     margin: 20px 0;
     padding: 20px 40px
 }
@@ -11192,7 +11192,7 @@ textarea {
 }
 
 [data-controller=recursos] .type-cont p {
-    color: #ff5100 !important;
+    color: #fbb03b !important;
     font-size: 14px;
     font-weight: 700 !important;
     letter-spacing: 1px;
@@ -11242,7 +11242,7 @@ textarea {
 }
 
 [data-controller=recursos] .trending-cont .sub-title h5 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-transform: uppercase
@@ -11454,13 +11454,13 @@ textarea {
 }
 
 [data-controller=recursos] .resources-cont .filter p:hover {
-    color: #ff5100;
+    color: #fbb03b;
     transition: .15s cubic-bezier(.4, 0, 1, 1)
 }
 
 [data-controller=recursos] .resources-cont .filter p.active {
     background-color: #212322;
-    color: #ff5100;
+    color: #fbb03b;
     transition: .15s cubic-bezier(.4, 0, 1, 1)
 }
 
@@ -11539,7 +11539,7 @@ textarea {
 }
 
 [data-controller=recursos] .resources-cont .book-cont .sub-title h5 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-transform: uppercase
@@ -11797,7 +11797,7 @@ textarea {
 
 [data-controller=reels] .director-cont h5,
 [data-controller=reels] .director-cont h6 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 1px;
     line-height: 1;
     overflow: hidden;
@@ -12287,7 +12287,7 @@ textarea {
 }
 
 [data-controller=servicios-produccion] .txt-cont h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
@@ -12382,7 +12382,7 @@ textarea {
 }
 
 [data-controller=servicios-produccion] .form-cont .columns p span {
-    color: #ff5100;
+    color: #fbb03b;
     font-weight: 700
 }
 
@@ -12917,7 +12917,7 @@ textarea {
 }
 
 [data-controller=spots-publicitarios] .txt-cont .head-txt h2 {
-    color: #ff5100;
+    color: #fbb03b;
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-align: center;
