@@ -8995,7 +8995,7 @@ textarea {
 }
 
 [data-controller=index]:after {
-    content: url(../../../img/08b5b7fe165d370c0a0dd23bac313d22680be00b/services1.jpg) url(../../../img/82b40eef63f659922045d7a0a0e22b82d6bc1922/services2.jpg) url(../../../img/dd5c5a328a19e954e72b0fa1084bf3009cb1aa17/services3.jpg) url(../../../img/301816a6f347cdc4fa002d21b44fcf5331ee07fa/services4.jpg) url(../../../img/d03ab3cf473ca407575f665fb82483905f1cdf03/services5.jpg) url(../../../img/226594122679b582312646866e8c2f275255e85c/services6.jpg) url(../../../img/41f2e9ee85ecb723785df16b486a4509941f571e/services7.jpg);
+    content: url(../../../img/services1.jpg) url(../../../img/services2.jpg) url(../../../img/services3.jpg) url(../../../img/services4.jpg) url(../../../img/services5.jpg) url(../../../img/services6.jpg) url(../../../img/services7.jpg);
     height: 0;
     overflow: hidden;
     position: absolute;
@@ -9005,7 +9005,7 @@ textarea {
 
 @media(max-width:768px) {
     [data-controller=index]:after {
-        content: url(../../../img/services1-sm.jpg) url(../../../img/0c76942051eda243c639a7f15e694ab6d221c5e6/services2-sm.jpg) url(../../../img/6146bbac0eae6c849dc1f8ca18feeea0d8af720a/services3-sm.jpg) url(../../../img/c8e7e04373b1216010d44a9ee62e4d87821c5b6f/services4-sm.jpg) url(../../../img/2d97d8af90920acae78ff379b7cf38c94ce04c9c/services5-sm.jpg) url(../../../img/ed0a3832f903aad8fa459fc011dfe74a008a3600/services6-sm.jpg) url(../../../img/f6582f12d8273ec940626625c47c3148709d4591/services7-sm.jpg)
+        content: url(../../../img/services1-sm.jpg) url(../../../img/services2-sm.jpg) url(../../../img/services3-sm.jpg) url(../../../img/services4-sm.jpg) url(../../../img/services5-sm.jpg) url(../../../img/services6-sm.jpg) url(../../../img/services7-sm.jpg)
     }
 }
 
