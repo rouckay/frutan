@@ -9252,7 +9252,7 @@ textarea {
 }
 
 [data-controller=index] .projects-cont .sld4 {
-    background-image: url(../../../img/services4.jpg);
+    background-image: url(../../../img/slide\ 3.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -9264,8 +9264,9 @@ textarea {
         background-image: none
     }
 
+    /* MOBILE SECTION */
     [data-controller=index] .projects-cont .sld4-sm {
-        background-image: url(../../../img/services4-sm.jpg);
+        background-image: url(../../../img/slide\ 3.jpg);
         background-position: 50%;
         background-repeat: no-repeat;
         background-size: cover
